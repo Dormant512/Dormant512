@@ -27,12 +27,12 @@
 
 ## :mortar_board: Education
 
+- [ ] *from Sep 23:* Internship at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/)
 - [ ] *Sep 22 - now:* Master's Degree at [ITMO](https://en.itmo.ru/) (Big Data & Machine Learning)
 - [x] *Sep 18 - Jun 22:* Bachelor's Degree at [SPbU](https://spbu.ru/) (Chemistry)
 
 ## :briefcase: Work experience
-
-- [ ] *Sep 23 - now:* Internship at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/) 
+ 
 - [ ] *Oct 22 - now:* Engineer of Machine Learning at ITMO University ([NCCT](https://en.itmo.ru/en/department/480/National_Center_for_Cognitive_Technologies.htm))
 
 ## :microscope: Publications
@@ -47,7 +47,7 @@
 ## :computer: Hard skills
 
 <div>
-<img src="./static/go.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
+<img src="./static/go.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 <img src="./static/cpp.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="./static/py.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="./static/js.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
