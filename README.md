@@ -27,7 +27,7 @@
 
 ## :mortar_board: Education
 
-- [ ] *from Sep 23:* Internship at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/)
+- [ ] *Sep 23 - now:* Internship at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/)
 - [ ] *Sep 22 - now:* Master's Degree at [ITMO](https://en.itmo.ru/) (Big Data & Machine Learning)
 - [x] *Sep 18 - Jun 22:* Bachelor's Degree at [SPbU](https://spbu.ru/) (Chemistry)
 
