@@ -27,13 +27,14 @@
 
 ## :mortar_board: Education
 
-- [ ] *Sep 23 - now:* Internship at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/)
+- [ ] *Sep 23 - now:* Study at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/)
 - [ ] *Sep 22 - now:* Master's Degree at [ITMO](https://en.itmo.ru/) (Big Data & Machine Learning)
 - [x] *Sep 18 - Jun 22:* Bachelor's Degree at [SPbU](https://spbu.ru/) (Chemistry)
 
 ## :briefcase: Work experience
- 
-- [ ] *Oct 22 - now:* Engineer of Machine Learning at ITMO University ([NCCT](https://en.itmo.ru/en/department/480/National_Center_for_Cognitive_Technologies.htm))
+
+- [ ] *Nov 23 - now:* Intern (backend, C++) at Yandex ([Deep Dive](https://yandex.ru/yaintern/deep_dive))
+- [x] *Oct 22 - Nov 23:* Engineer of Machine Learning at ITMO University ([NCCT](https://en.itmo.ru/en/department/480/National_Center_for_Cognitive_Technologies.htm))
 
 ## :microscope: Publications
 
