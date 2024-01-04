@@ -71,7 +71,7 @@
 - :ru: Russian (native)
 - :uk: English (C1, [IELTS](https://drive.google.com/file/d/1h1CtJ94Yk2MFjWrm8z4qKwNl8ByBuqkJ/view?usp=sharing))
 - :de: German (B2/C1, [TestDaF](https://drive.google.com/file/d/1v0tc5AU1laLYTVCUiT1MKzjp7nLxUjmr/view?usp=sharing))
-- :zh: Chinese (~HSK1)
+- :cn: Chinese (~HSK1)
 
 ## :video_game: Hobbies
 
