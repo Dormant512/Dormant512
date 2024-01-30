@@ -23,7 +23,7 @@
 ⚜️ Hello, weary traveller! ⚜️
 </h1>
 
-<div align="center">Machine Learning student at ITMO, aspiring Backend developer. Hobbyist musician, artist and D&D and tea enjoyer.</div>
+<div align="center">Machine Learning student at ITMO, aspiring Backend developer. Hobbyist musician, artist, D&D and tea enjoyer.</div>
 
 ## :mortar_board: Education
 
