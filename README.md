@@ -36,15 +36,6 @@
 - [ ] *Sep 22 - now:* Master's Degree at [ITMO](https://en.itmo.ru/) (Big Data & Machine Learning)
 - [x] *Sep 18 - Jun 22:* Bachelor's Degree at [SPbU](https://spbu.ru/) (Chemistry)
 
-## :microscope: Publications
-
-- [Gladnev, S.V.; Grigoryev, M.V.; Kryukova, M.A.; Khairullina, E.M.; Tumkin, I.I.; Bogachev,
-  N.A.; Mereshchenko, A.S.; Skripkin, M.Y. Structures, Bonding and Sensor Properties of Some Alkaline
-  o-Phthalatocuprates. Materials 2021, 14, 5548.](https://doi.org/10.3390/ma14195548)
-- [Zenkevich, I.G.; Byvsheva, S.V.; Gerasimov, A.I.; Gladnev, S.V.; Grigoriev, M.V. et. al. De-
-  creasing the uncertainty of gas chromatographic quantification using the solvent’s signal in the method
-  of external standard. Analitika i kontrol’ [Analytics and Control], 2022, vol. 26, no. 2, pp. 141-149.](http://dx.doi.org/10.15826/analitika.2022.26.2.005)
-
 ## :computer: Hard skills
 
 <div>
@@ -79,6 +70,15 @@
 - :guitar: Writing music: production, bass and guitar - some releases are available on [SoundCloud](https://soundcloud.com/dormant-art)
 - :game_die: Dungeons & Dragons (homebrew everything)
 - :tea: Gongfu tea
+
+## :microscope: Publications
+
+- [Gladnev, S.V.; Grigoryev, M.V.; Kryukova, M.A.; Khairullina, E.M.; Tumkin, I.I.; Bogachev,
+  N.A.; Mereshchenko, A.S.; Skripkin, M.Y. Structures, Bonding and Sensor Properties of Some Alkaline
+  o-Phthalatocuprates. Materials 2021, 14, 5548.](https://doi.org/10.3390/ma14195548)
+- [Zenkevich, I.G.; Byvsheva, S.V.; Gerasimov, A.I.; Gladnev, S.V.; Grigoriev, M.V. et. al. De-
+  creasing the uncertainty of gas chromatographic quantification using the solvent’s signal in the method
+  of external standard. Analitika i kontrol’ [Analytics and Control], 2022, vol. 26, no. 2, pp. 141-149.](http://dx.doi.org/10.15826/analitika.2022.26.2.005)
 
 ## :bar_chart: GitHub stats
 
