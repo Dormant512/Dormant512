@@ -23,18 +23,18 @@
 ⚜️ Hello, weary traveller! ⚜️
 </h1>
 
-<div align="center">Machine Learning student at ITMO, aspiring Backend developer. Hobbyist musician, artist, D&D and tea enjoyer.</div>
+<div align="center">Aspiring Data Engineer and Backend Developer. Student of Machine Learning and Big Data at ITMO. Hobbyist musician, artist, D&D and tea enjoyer.</div>
+
+## :briefcase: Work experience
+
+- [x] *Nov 23 - Feb 24:* Intern (backend, C++) at Yandex ([Deep Dive](https://yandex.ru/yaintern/deep_dive))
+- [x] *Oct 22 - Nov 23:* Engineer of Machine Learning at ITMO University ([NCCT](https://en.itmo.ru/en/department/480/National_Center_for_Cognitive_Technologies.htm))
 
 ## :mortar_board: Education
 
 - [ ] *Sep 23 - now:* Study at [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/)
 - [ ] *Sep 22 - now:* Master's Degree at [ITMO](https://en.itmo.ru/) (Big Data & Machine Learning)
 - [x] *Sep 18 - Jun 22:* Bachelor's Degree at [SPbU](https://spbu.ru/) (Chemistry)
-
-## :briefcase: Work experience
-
-- [ ] *Nov 23 - now:* Intern (backend, C++) at Yandex ([Deep Dive](https://yandex.ru/yaintern/deep_dive))
-- [x] *Oct 22 - Nov 23:* Engineer of Machine Learning at ITMO University ([NCCT](https://en.itmo.ru/en/department/480/National_Center_for_Cognitive_Technologies.htm))
 
 ## :microscope: Publications
 
