@@ -73,12 +73,9 @@
 
 ## :microscope: Publications
 
-- [Gladnev, S.V.; Grigoryev, M.V.; Kryukova, M.A.; Khairullina, E.M.; Tumkin, I.I.; Bogachev,
-  N.A.; Mereshchenko, A.S.; Skripkin, M.Y. Structures, Bonding and Sensor Properties of Some Alkaline
-  o-Phthalatocuprates. Materials 2021, 14, 5548.](https://doi.org/10.3390/ma14195548)
-- [Zenkevich, I.G.; Byvsheva, S.V.; Gerasimov, A.I.; Gladnev, S.V.; Grigoriev, M.V. et. al. De-
-  creasing the uncertainty of gas chromatographic quantification using the solvent’s signal in the method
-  of external standard. Analitika i kontrol’ [Analytics and Control], 2022, vol. 26, no. 2, pp. 141-149.](http://dx.doi.org/10.15826/analitika.2022.26.2.005)
+- [Gladnev, S.V.; Grigoryev, M.V.; Kryukova, M.A.; Khairullina, E.M.; Tumkin, I.I.; Bogachev, N.A.; Mereshchenko, A.S.; Skripkin, M.Y. Structures, Bonding and Sensor Properties of Some Alkaline o-Phthalatocuprates. Materials 2021, 14, 5548.](https://doi.org/10.3390/ma14195548)
+- [Zenkevich, I.G.; Byvsheva, S.V.; Gerasimov, A.I.; Gladnev, S.V.; Grigoriev, M.V. et. al. Decreasing the uncertainty of gas chromatographic quantification using the solvent’s signal in the method of external standard. Analitika i kontrol’ [Analytics and Control], 2022, vol. 26, no. 2, pp. 141-149.](http://dx.doi.org/10.15826/analitika.2022.26.2.005)
+- [Semenov, V.; Grigoriev, M.; Kirsanov, D.; Panchuk, V. When one equals two: Chemometrics turns Mössbauer spectrometer into X-ray fluorescence one. Spectrochimica Acta Part B: Atomic Spectroscopy, 2024, vol. 213, p. 106878.](https://doi.org/10.1016/j.sab.2024.106878)
 
 ## :bar_chart: GitHub stats
 
